@@ -1,0 +1,13 @@
+/*
+	Modified from the amazing template created by HTML5UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license
+*/
+
+	body.is-preload .tiles article {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+	}
